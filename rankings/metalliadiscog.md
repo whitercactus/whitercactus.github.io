@@ -65,7 +65,7 @@ from this would be 'Master of Puppets', 'Battery', 'Leper Messiah', and 'Welcome
 ## 1. Ride The Lightning (1984)
 ![](img/rtl.png)
 
-My favorite Metallica album. Every song from this rcord is a certified banger.
+My favorite Metallica album. Every song from this record is a certified banger.
 From the title track, to 'For Whom the Bell Tolls', to 'Fade to Black', to the instrumental 
 'The Call of Ktulu'. Even 'Escape' is good. The production was a huge step up from Kill 'Em All.
 This album is a true masterpiece.
