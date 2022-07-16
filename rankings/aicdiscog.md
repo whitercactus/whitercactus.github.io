@@ -30,7 +30,7 @@ A great album which I'm shocked does not have more commercial success. This albu
 
 What a debut! This album is filled with great songs. Obviously, 'Man in the Box' is a classic and probably my favorite Alice In Chains song. However, 'We Die Young', 'Sea of Sorrow', and 'Bleed the Freak' are also bangers. My only issue with this album is that after the first 4 songs, it all sort of blends in. Overall a great record.
 
-## 2. Jar of Flies (1993)
+## 2. Jar of Flies (1994)
 ![](img/aic/jof.webp)
 
 This EP is very saddening, no doubt about it. The songs are very depressing but at the same time, they are somehow calming. From 'Rotten Apple', to 'Nutshell', to 'I Stay Away', to 'No Excuses', this whole EP is amazing.
