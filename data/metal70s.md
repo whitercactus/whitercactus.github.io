@@ -1,4 +1,4 @@
-# Best Metal Album Every Year From The 70s
+# My Favorite Metal Album Every Year From The 70s
 
 * ## 1970 - Black Sabbath - Black Sabbath
 * ![](img/metalsg/bs.webp)
