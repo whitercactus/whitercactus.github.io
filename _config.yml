@@ -1,3 +1,4 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-title: Music Stuff 
+title: Music Stuff
+plugins: [jekyll-include-cache]
 description: Bookmark this to keep an eye on my project updates!
