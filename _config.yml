@@ -2,3 +2,4 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: Music Stuff
 plugins: [jekyll-include-cache]
 description: Music Stuff
+minimal_mistakes_skin: "dark"
